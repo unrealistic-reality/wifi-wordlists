@@ -20,4 +20,5 @@ If you be so kind, you can support me by registering to [filen.io](https://filen
 * [pldtwifi-wordlist.txt](https://drive.filen.io/d/004ffba2-246a-4b54-a1ee-b088a2658a64#U0Sdj5E8TWeGiVHXbBVdNtZyJsdMeD6A) `14mb`
 * [small_last_5_macaddresses.txt](https://drive.filen.io/d/a641fcc3-efca-4442-b53e-d83d8937f2b1#eHz56bCuHoSGZzfRg8h3zCozzKs4pMiB) `6mb`
 * [small_last_6_macaddresses.txt](https://drive.filen.io/d/877b607c-d8d1-4be9-921e-02b7e98ecb85#0aBsBKpCOn4rnGfswgDGqS17eSVJpXOh) `112mb`
+* [small_last_8_macaddresses.txt](https://drive.filen.io/d/52ef32ff-bca8-4248-b6f1-91947268b949#NhMaC8DWPmTwbahISN8UOuZ6ppaz0IPU) `36gb`
 * [small_mixalpha-numeric_5.txt](https://drive.filen.io/d/0f576a01-75c8-4700-9cf0-eb34f15d2948#a84YehWdP4kzIK39h9zmD9uYiOBv7IKx) `5.1gb`
