@@ -22,3 +22,4 @@ If you be so kind, you can support me by registering to [filen.io](https://filen
 * [small_last_6_macaddresses.txt](https://drive.filen.io/d/877b607c-d8d1-4be9-921e-02b7e98ecb85#0aBsBKpCOn4rnGfswgDGqS17eSVJpXOh) `112mb`
 * [small_last_8_macaddresses.txt](https://drive.filen.io/d/52ef32ff-bca8-4248-b6f1-91947268b949#NhMaC8DWPmTwbahISN8UOuZ6ppaz0IPU) `36gb`
 * [small_mixalpha-numeric_5.txt](https://drive.filen.io/d/0f576a01-75c8-4700-9cf0-eb34f15d2948#a84YehWdP4kzIK39h9zmD9uYiOBv7IKx) `5.1gb`
+* [ph-wordlist.txt](https://raw.githubusercontent.com/unrealistic-reality/wifi-wordlists/main/ph-wordlist.txt) `343kb`
